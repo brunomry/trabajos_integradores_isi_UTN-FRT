@@ -1,4 +1,4 @@
-# Carrera; Ingeniería en Sistemas de Información en UTN-FRT
+# Carrera: Ingeniería en Sistemas de Información en UTN-FRT
 
 ## Trabajos Finales Integradores (TFI)
 
